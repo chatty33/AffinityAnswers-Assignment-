@@ -1,0 +1,15 @@
+Which is an interesting data set you discovered recently? Why is it your favorite? No datasets on Kaggle, please.
+
+Recently,  I did a research project on "Evaluation of Text Summarization Techniques on Medical Drug Reviews" from University of California Irvine. It has become one of my favorites for several reasons.
+
+The dataset provides patient reviews on specific drugs, along with related conditions and a 10-star patient rating reflecting overall patient satisfaction. This information is obtained by crawling online pharmaceutical review sites, making it a valuable resource for studying sentiment analysis of drug experiences.
+
+The dataset is characterized as multivariate and text-based, with 215,063 instances. It consists of six attributes, including the name of the drug, the name of the condition, the patient's review (text), the patient's rating (numerical), the date of the review entry, and the number of users who found the review useful.
+
+This dataset's appeal lies in its versatility. It supports various tasks such as classification, regression, and clustering, allowing researchers to explore different analytical approaches. Additionally, it facilitates the investigation of sentiment analysis on specific aspects of drug experiences, such as effectiveness and side effects.
+
+Another interesting aspect of this dataset is its potential for studying the transferability of models across domains (conditions) and different data sources. This opens avenues for cross-domain learning and comparison between datasets.
+
+It's worth noting that this dataset has ethical considerations and usage restrictions. Users are required to agree to use the data solely for research purposes, without commercial usage or distribution to others. Proper citation of the dataset source is also required.
+
+The dataset has been referenced in relevant papers, such as the work by Felix Gräßer, Surya Kallumadi, Hagen Malberg, and Sebastian Zaunseder on aspect-based sentiment analysis of drug reviews applying cross-domain and cross-data learning.
